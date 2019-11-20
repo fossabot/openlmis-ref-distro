@@ -1,4 +1,6 @@
 # OpenLMIS Reference Distribution
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarlsbox%2Fopenlmis-ref-distro.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarlsbox%2Fopenlmis-ref-distro?ref=badge_shield)
+
 Location for the OpenLMIS v3+ Reference Distribution
 
 The Reference Distribution utilizes Docker Compose to gather the published OpenLMIS Docker Images together and
@@ -285,3 +287,7 @@ Documentation is built using Sphinx. Documents from other OpenLMIS repositories 
 
 Documentation is available at:
 http://openlmis.readthedocs.io
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarlsbox%2Fopenlmis-ref-distro.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarlsbox%2Fopenlmis-ref-distro?ref=badge_large)
